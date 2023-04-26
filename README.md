@@ -41,4 +41,6 @@ IDLE como entorno interactivo
 Al abrir IDLE con el acceso directo Inicio > Python 3.10 > IDLE (Python 3.10 64-bit), se abrirá la ventana principal de IDLE, como 
 muestra la imagen siguiente.
 
+![image](https://user-images.githubusercontent.com/2372580/234679194-e53bf921-c40f-4d7e-bbd0-84385e35591a.png)
+
 IDLE: Ventana principal- 
