@@ -14,16 +14,18 @@
 ### Instalación
 Para poder ejecutar el proyecto es necesario poder instalar las siguientes herramientas:
 - Python 3.11
-- ChromeDriver Versión 112.0.5615.121
 - Selenium
--
+
 ### Paso 1:
     - Clonar el repositorio:
       - git clone remote add origin git@github.com:chernandezal6/PruebaTecnicaAPAP.git
 
 ### paso 2:
 
-    - Instalar dependencias de Python del proyecto
+    Instalar Dependencias de Selenium Python 
+      - Chromium (EdgeDriver())
+      - geckodriver (Firefox())
+      - ChromeDriver 113.0.5672.24
 
 ### Paso 3:
   ### Proceso para ejecución de proyecto:
